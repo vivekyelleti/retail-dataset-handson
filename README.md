@@ -3,7 +3,7 @@ A guided Python exercise on identifying, analysing, and treating missing values 
 
 ## Business Question
 
-**Can RetailMax trust its customer data when profitability decisions depend on incomplete records?**
+RetailMax is a multi-channel retail company serving customers through online, store, and omnichannel channels. The company has invested heavily in customer acquisition, loyalty programs, and category expansion to drive growth. Management is concerned that while customer activity and spending appear healthy, overall profitability is not meeting expectations. The executive team wants to identify the key factors influencing profitability and determine what actions should be prioritized.
 
 # RetailMax Customer Data: Feature Metadata
 
