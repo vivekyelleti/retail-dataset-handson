@@ -1,4 +1,4 @@
-# RetailMax: Mi
+# RetailMax
 A guided Python exercise on identifying, analysing, and treating missing values in a retail customer dataset. 
 
 ## Business Question
